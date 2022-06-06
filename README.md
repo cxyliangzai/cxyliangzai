@@ -6,7 +6,7 @@
 - :1st_place_medal: My projects are trusted by developers.
 - :sun_with_face: What i have achieved.
 
-<a href="https://cxyliangzai.blog.csdn.net">
+<a href="https://blog.csdn.net/cxyliangzai">
     <img src="https://img.shields.io/badge/CSDN Page View-115K-E65A65.svg" alt="" title="cxyliangzai的csdn" />
 </a>
 
